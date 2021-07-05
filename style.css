@@ -1,0 +1,51 @@
+body{font-family:'Merriweather', serif;; 
+background-image: url(brazil.png);
+background-repeat: no-repeat;}
+
+.goal{color: green;}
+.dol{color:rgb(211, 211, 39);}
+
+.my-team{width: 50%;
+padding-left: 5%;
+}
+.my-team img{width: 100%;}
+.cool{display: flex;
+margin: 120px;}
+.link{background-color: rgb(17, 124, 25);
+    color: white;
+    padding: 3px;
+    text-decoration: none} 
+    .hot{display: flex;
+    }
+    .legend {width:50% ;
+    margin:150;}
+    .legend img{width: 90%;}
+    .pele{color: rgb(179, 179, 30);}
+    .football{color: green;}
+    .back{background-image: url(leaf.png);
+    background-repeat: no-repeat;}
+    .junior{box-shadow: 10px 10px 40px ; 
+        width: 50%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left:15px ; 
+        border-radius: 20px;
+        text-align: justify;
+        font-weight: 300px;
+    color: white;}
+        .senior{box-shadow:10px 10px 40px;width:50% ;
+        margin-left: 5%;
+        margin-right: 5%;
+        border-radius:20px ;
+        padding-left:15px;
+        text-align: justify;
+    color: white;}
+        .top{display:flex ;}
+        .top-area{background-image: url(bird.png)
+            ;
+        background-repeat: no-repeat;}
+        .door{color: white;
+        margin-left: 20px;
+    margin-bottom: 15px;}
+    .leg{text-align: center;
+    color: yellowgreen;}
